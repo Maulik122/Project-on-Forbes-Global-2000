@@ -4,7 +4,7 @@ st.title(""" Forbes Global 2023""")
 
 import numpy as np
 import pandas as pd
-import matplotlib as plt
+from matplotlib import pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
